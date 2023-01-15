@@ -53,13 +53,13 @@ atom_feed:
 author:
   name             : "Anh Phuong Ngo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "YPh.D. Student in Electrical and Computer Engineering"
+  location         : "United States of America"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -73,14 +73,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/anh-phuong-ngo-05822373/
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/anh-phuong-ngo-05822373
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
