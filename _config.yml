@@ -52,7 +52,7 @@ atom_feed:
 # Site Author
 author:
   name             : "Anh Phuong Ngo"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Ph.D. Student in Electrical and Computer Engineering"
   location         : "United States of America"
   employer         : "North Carolina A&T State University"
