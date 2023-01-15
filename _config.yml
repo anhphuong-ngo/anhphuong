@@ -11,7 +11,7 @@ title                    : "Anh Phuong Ngo"
 title_separator          : "-"
 name                     : &name "Anh Phuong Ngo"
 description              : &description "Ph.D. Student in Electrical and Computer Engineering"
-url                      : https://anhphuong-ngo.github.io/anhphuong # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anhphuong-ngo.github.io/anhphuong
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -53,7 +53,7 @@ atom_feed:
 author:
   name             : "Anh Phuong Ngo"
   avatar           : "profile.png"
-  bio              : "YPh.D. Student in Electrical and Computer Engineering"
+  bio              : "Ph.D. Student in Electrical and Computer Engineering"
   location         : "United States of America"
   employer         :
   pubmed           : 
@@ -198,10 +198,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
