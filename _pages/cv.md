@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Electrical and Computer Engineering, North Carolina A&T State University, 2024 (Expected)
 * M.Sc. in Global Production Engineering, Technical University of Berlin (TU Berlin), 2019
-* B.Eng. in Industrial Systems Engineering, Vietnam National University (VNU-HCM) 2011
+* B.Eng. in Industrial Systems Engineering, Vietnam National University (VNU-HCM), 2011
 
 Work experience
 ======
@@ -22,10 +22,9 @@ Work experience
   * Determine data requirements; Gather, unify, clean, and process data for the modeling purposes
   * Analyze and visualize data (SAS & PowerBI)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 03/2019 - 09/2020: Operational Excellence Intern
+  * Created dashboard and visual management strategies to track project effectiveness
+  * Developed a mobile application (Javascript & PowerApps) and Excel VBA Macro for training purposes
   
 Skills
 ======
