@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical and Computer Engineering, North Carolina A&T State University, 2024 (Expected)
+* M.Sc. in Global Production Engineering, Technical University of Berlin (TU Berlin), 2019
+* B.Eng. in Industrial Systems Engineering, Vietnam National University (VNU-HCM) 2011
 
 Work experience
 ======
