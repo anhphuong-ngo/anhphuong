@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 08/2021 - present: Graduate Research Assistant, North Carolina A&T State University, United States
+  * Develop mathematical models (MIP, MICP, Non-convex,...) using open-source packages (JumP, Pyomo and CVXPY) and optimization solvers (Gurobi, CPLEX, MOSEK, ECOS, FICO, GLPK and SCS)
+  * Determine data requirements; Gather, unify, clean, and process data for the modeling purposes
+  * Analyze and visualize data (SAS & PowerBI)
 
 * Fall 2015: Research Assistant
   * Github University
