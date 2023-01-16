@@ -79,7 +79,7 @@ Service and leadership
 * Reviewer, IEEE Power & Energy Society, the conference on Innovative Smart Grid Technologies, North America (ISGT NA) in 2022, 2023
 * Reviewer, IEEE Transactions on Sustainable Energy since 2022
 
-Cerfitication
+Certification
 ======
 * Lean Six Sigma Green Belt, April 2022
 * OpenDSS Training of Electric Power Research Institute (EPRI), August 2022
