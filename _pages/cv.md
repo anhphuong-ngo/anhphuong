@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 08/2021 - present: Graduate Research Assistant, North Carolina A&T State University, United States
+* 08/2021 - present: <strong>Graduate Research Assistant<strong>, North Carolina A&T State University, United States
   * Develop mathematical models (MIP, MICP, Non-convex,...) using open-source packages (JumP, Pyomo and CVXPY) and optimization solvers (Gurobi, CPLEX, MOSEK, ECOS, FICO, GLPK and SCS)
   * Determine data requirements; Gather, unify, clean, and process data for the modeling purposes
   * Analyze and visualize data (SAS & PowerBI)
