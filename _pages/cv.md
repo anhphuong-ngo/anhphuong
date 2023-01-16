@@ -43,12 +43,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming languages**: Python, C#, VBA, MATLAB, Qiskit, CUDA (GPU Acceleration), Julia
+* **Data analytics**: MS Excel Advanced, Minitab, SQL, Tableau, PowerBI, R
+* **Manufacturing simulation**: ARENA, Tecnomatix (SimTalk 2.0)
+* **Power Systems simulation**: Open DSS, PSCAD, GridLAB-D
+* **Optimization**: Gurobi, CPLEX, GAMS, Mosek, GLPK, Pyomo, CVXPY, JuMP
+* **3D Modeling**: AutoCAD, NX
 
 Publications
 ======
