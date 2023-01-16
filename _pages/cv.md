@@ -50,13 +50,19 @@ Skills
 * **Optimization**: Gurobi, CPLEX, GAMS, Mosek, GLPK, Pyomo, CVXPY, JuMP
 * **3D Modeling**: AutoCAD, NX
 
+Awards and Honors
+======
+* Amazon Supply Chain Optimization Technologies (SCOT) and INFORMS Scholarship, 2022
+* Student Paper Award from 2018 IEEE Conference on Service Operations and Logistics, and Informatics, 2018
+* Fully-funded Master Scholarship from Adidas and Suppliers 2016-2018
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Porfolio
+Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -72,3 +78,9 @@ Service and leadership
 ======
 * Reviewer, IEEE Power & Energy Society, the conference on Innovative Smart Grid Technologies, North America (ISGT NA) in 2022, 2023
 * Reviewer, IEEE Transactions on Sustainable Energy since 2022
+
+Cerfitication
+======
+* Lean Six Sigma Green Belt, April 2022
+* OpenDSS Training of Electric Power Research Institute (EPRI), August 2022
+* Lean Process Improvement and Project Delivery Initiatives at Massachusetts Port Authority, IISE, October 2022
