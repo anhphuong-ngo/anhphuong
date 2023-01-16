@@ -56,9 +56,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- News
 ======
   <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+  
+Projects
+======
+  <ul>{% for post in site.porfolio %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -70,4 +76,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer, IEEE Power & Energy Society, the conference on Innovative Smart Grid Technologies, North America (ISGT NA) in 2022, 2023
+* Reviewer, IEEE Transactions on Sustainable Energy since 2022
