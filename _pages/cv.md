@@ -17,27 +17,27 @@ Education
 
 Work experience
 ======
-* 08/2021 - present: <strong>Graduate Research Assistant<strong>, North Carolina A&T State University, United States
+* 08/2021 - present: **Graduate Research Assistant**, North Carolina A&T State University, United States
   * Develop mathematical models (MIP, MICP, Non-convex,...) using open-source packages (JumP, Pyomo and CVXPY) and optimization solvers (Gurobi, CPLEX, MOSEK, ECOS, FICO, GLPK and SCS)
   * Determine data requirements; Gather, unify, clean, and process data for the modeling purposes
   * Analyze and visualize data (SAS & PowerBI)
 
-* 03/2018 - 09/2029: Operational Excellence Intern, Wayne Brothers Companies
+* 03/2018 - 09/2029: **Operational Excellence Intern**, Wayne Brothers Companies
   * Created dashboard and visual management strategies to track project effectiveness
   * Developed a mobile application (Javascript & PowerApps) and Excel VBA Macro for training purposes
 
-* 10/2018 - 12/2018: Engineering Intern, Key to Metals AG
+* 10/2018 - 12/2018: **Engineering Intern**, Key to Metals AG
   * Reviewed data structures and recommended optimizations and re-configurations as required
   * Supported business management administration and executive leadership in strategic planning, integration management, development activities, and implementation of data management
 
-* 05/2018 - 10/2018: Engineering Intern, Engergoprojekt - Entel
+* 05/2018 - 10/2018: **Engineering Intern**, Engergoprojekt - Entel
   * Designed 3D modelling and supported implementation of steam pipe for a power plant project
 
-* 06/2017 - 10/2017: Manufacturing Excellence Scholar, Adidas
+* 06/2017 - 10/2017: **Manufacturing Excellence Scholar**, Adidas
   * Deployed RFID system and applied data mining techniques in production lines
   * Led Motion Time Study assignment in Loading area and proposed an appropriate standard
 
-* 05/2015 - 03/2016: Lean Manufacturing Intern, Bosch
+* 05/2015 - 03/2016: **Lean Manufacturing Intern**, Bosch
   * Led LEAN activities and minimized non-value added in operator’s motion
   * Developed a program based on Visual Studio C# to manage data of the suggestion scheme program
   
