@@ -46,7 +46,7 @@ Skills
 * **Programming languages**: Python, C#, VBA, MATLAB, Qiskit, CUDA (GPU Acceleration), Julia
 * **Data analytics**: MS Excel Advanced, Minitab, SQL, Tableau, PowerBI, R
 * **Manufacturing simulation**: ARENA, Tecnomatix (SimTalk 2.0)
-* **Power Systems simulation**: Open DSS, PSCAD, GridLAB-D
+* **Power systems simulation**: Open DSS, PSCAD, GridLAB-D, PowerWorld
 * **Optimization**: Gurobi, CPLEX, GAMS, Mosek, GLPK, Pyomo, CVXPY, JuMP
 * **3D Modeling**: AutoCAD, NX
 
