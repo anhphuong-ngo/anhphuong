@@ -56,6 +56,12 @@ Awards and Honors
 * Student Paper Award from 2018 IEEE Conference on Service Operations and Logistics, and Informatics, 2018
 * Fully-funded Master Scholarship from Adidas and Suppliers 2016-2018
 
+Certification
+======
+* Lean Six Sigma Green Belt, April 2022
+* OpenDSS Training of Electric Power Research Institute (EPRI), August 2022
+* Lean Process Improvement and Project Delivery Initiatives at Massachusetts Port Authority, IISE, October 2022
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -78,9 +84,3 @@ Service and leadership
 ======
 * Reviewer, IEEE Power & Energy Society, the conference on Innovative Smart Grid Technologies, North America (ISGT NA) in 2022, 2023
 * Reviewer, IEEE Transactions on Sustainable Energy since 2022
-
-Certification
-======
-* Lean Six Sigma Green Belt, April 2022
-* OpenDSS Training of Electric Power Research Institute (EPRI), August 2022
-* Lean Process Improvement and Project Delivery Initiatives at Massachusetts Port Authority, IISE, October 2022
