@@ -62,6 +62,10 @@ Certification
 * OpenDSS Training of Electric Power Research Institute (EPRI), August 2022
 * Lean Process Improvement and Project Delivery Initiatives at Massachusetts Port Authority, IISE, October 2022
 
+Presentation
+======
+* Participated as a delegate in Hitachi Young Leaders Initiative 2019 in Singapore
+
 Publications
 ======
   <ul>{% for post in site.publications %}
