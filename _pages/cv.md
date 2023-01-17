@@ -21,6 +21,7 @@ Work experience
   * Develop mathematical models (MIP, MICP, Non-convex,...) using open-source packages (JumP, Pyomo and CVXPY) and optimization solvers (Gurobi, CPLEX, MOSEK, ECOS, FICO, GLPK and SCS)
   * Determine data requirements; Gather, unify, clean, and process data for the modeling purposes
   * Analyze and visualize data (SAS & PowerBI)
+  * Develop machine learning algorithms and models
 
 * 03/2018 - 09/2029: **Operational Excellence Intern**, Wayne Brothers Companies, North Carolina, United States
   * Created dashboard and visual management strategies to track project effectiveness
