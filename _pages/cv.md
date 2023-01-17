@@ -22,7 +22,7 @@ Work experience
   * Determine data requirements; Gather, unify, clean, and process data for the modeling purposes
   * Analyze and visualize data (SAS & PowerBI)
 
-* 03/2018 - 09/2029: **Operational Excellence Intern**, Wayne Brothers Companies
+* 03/2018 - 09/2029: **Operational Excellence Intern**, Wayne Brothers Companies, North Carolina, United States
   * Created dashboard and visual management strategies to track project effectiveness
   * Developed a mobile application (Javascript & PowerApps) and Excel VBA Macro for training purposes
 
