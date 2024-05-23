@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anh Phuong Ngo"
 title_separator          : "-"
 name                     : &name "Anh Phuong Ngo"
-description              : &description "Ph.D. Student in Electrical and Computer Engineering"
+description              : &description "Ph.D. Student in Electrical Engineering"
 url                      : https://anhphuong-ngo.github.io/anhphuong
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anhphuong-ngo.github.io"
@@ -53,7 +53,7 @@ atom_feed:
 author:
   name             : "Anh Phuong Ngo"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student in Electrical and Computer Engineering"
+  bio              : "Ph.D. Candidate in Electrical and Computer Engineering"
   location         : 
   employer         : "North Carolina A&T State University"
   pubmed           : 
